@@ -50,14 +50,14 @@ A MESSAGE COMES INのドロップダウンから、TwiML Binを選択します�
 最後に、コンソールの __Save__ ボタンをクリックし、電話番号の設定を更新することを忘れないでください。
 
 
-## SMSの応答テスト
-SMSの応答をテストする場合は、取得した番号にメッセージを送る必要があります。国際SMSへの送受信ができない場合は、お声がけください。
+## 1-5. SMSの応答テスト
+SMSの応答をテストする場合は、取得した番号にSMSメッセージを送る必要があります。
 
 ## 関連リソース
 
 - [無料のTwilioトライアルアカウントの使用方法](https://jp.twilio.com/docs/usage/tutorials/how-to-use-your-free-trial-account)
-- [Help - TwiML](https://jp.twilio.com/docs/voice/twiml)
-- [（追加ハンズオン）SMSをNode.jsプログラムから送受信する]()
+- [TwiMLリソース](https://jp.twilio.com/docs/voice/twiml)
+- [SMSおよびMMS（日本未対応）メッセージを送信する](https://jp.twilio.com/docs/sms/tutorials/how-to-send-sms-messages)
 
 ## 次のハンズオン
 [ハンズオン: ボイス（電話）の利用](./02-02-ReceiveSMS.md)

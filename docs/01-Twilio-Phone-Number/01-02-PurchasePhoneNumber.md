@@ -8,13 +8,13 @@
 ''' Image for for Console '''
 
 ## 2-2. SMSの送受信が可能な電話番号を取得
-はじめてTwilioを使用する場合は、コンソールから [__Get a Trial Number__](https://www.twilio.com/console/phone-numbers/trial-number/modal?capability[]=sms)をクリックし、トライアル番号を取得することができます。
-この番号は米国の番号が表示されます。日本などその他の国の番号を取得することもできますが、今回のハンズオンでは、表示された番号を選択してください。
+はじめてTwilioを使用する場合は、コンソールから [Get a Trial Number](https://www.twilio.com/console/phone-numbers/trial-number/modal?capability[]=sms)をクリックし、トライアル番号を取得することができます。
+この番号はSMSの送受信が可能な番号が表示されます。日本などその他の国の番号を取得することもできますが、今回のハンズオンでは、表示された番号を選択してください。
 
 ''' Image for Console '''
 ''' Image for Phone Number Purchase '''
 
-Twilioでは米国の電話番号を月に約1ドル（約111円）で保持することができます。この価格は電話番号を取得する国によって異なります。回線維持料は電話番号を取得した段階でクレジットから減算されるため、番号の取得とリリースを続けて行わないようにご注意ください。
+Twilioでは米国の電話番号を約1ドル/月で保持することができます。この価格は電話番号を取得する国によって異なります。回線維持料は電話番号を取得した段階でクレジットから減算されるため、番号の取得とリリースを続けて行わないようにご注意ください。
 
 ## 関連リソース
 
@@ -22,4 +22,4 @@ Twilioでは米国の電話番号を月に約1ドル（約111円）で保持す�
 
 
 ## 次のハンズオン
-[ハンズオン: メッセージ（SMS/MMS）の利用](./01-03-PurchasePhoneNumber.md)
+[ハンズオン: メッセージ（SMS/MMS）の利用](../02-Twilio-SMS/02-00-Overview.md)

@@ -1,6 +1,6 @@
 #  手順1: Twilioアカウントの作成
 ## はじめに
-この手順では、Twilioアカウントを作成します。既にアカウントを作成し、コンソールにアクセスできている場合は、[手順2](./01-02-PurchasePhoneNumber)へ進んでください。
+この手順では、Twilioアカウントを作成します。既にアカウントを作成し、コンソールにアクセスできている場合は、[手順2](./01-02-PurchasePhoneNumber.md)へ進んでください。
 ## 1-1. アカウントの作成を開始
 [Twilioホームページ](https://www.twilio.com/)をブラウザーで開き、[__Sign Up__](https://www.twilio.com/try-twilio) をクリックします。
 
@@ -27,9 +27,9 @@ First Name（名）、Last Name（姓）、Email、パスワード(14文字以�
 
 ## 1-3. コンソールへのアクセス
 Twilioのさまざまなサービスの利用状況の確認や設定はコンソールから行う事ができます。
-コンソールには、[Twilioホームページ](https://www.twilio.com/)をブラウザーで開き、[__LOG IN__](https://www.twilio.com/login) をクリックするか、[コンソール](https://www.twilio.com/console)に直接移動します。
+コンソールには、[Twilioホームページ](https://www.twilio.com/)をブラウザーで開き、[LOG IN](https://www.twilio.com/login) をクリックするか、[コンソール](https://www.twilio.com/console)に直接移動します。
 
-特に名前を設定していなければ、「My first Twilio project Dashboard」が表示されています。プロジェクトのコンソールでは、プロジェクトに紐づいているクレジットの合計を確認できます。
+特に名前を設定していなければ、「__My first Twilio project Dashboard__」が表示されています。プロジェクトのコンソールでは、プロジェクトに紐づいているクレジットの合計を確認できます。
 
 ''' Image for Console '''
 
@@ -38,10 +38,10 @@ Twilioのさまざまなサービスの利用状況の確認や設定はコン�
 ''' Image for Console v2
 
 ## 1-4. トライアルアカウントを利用した場合の制限
-トライアルアカウントを利用する場合は、以下のような制限があります。
+トライアルアカウントを利用する場合は、以下のような __制限__ があります。
 
 - トライアルアカウントで取得できる電話番号は１つのみです。複数の番号を取得する場合は、アカウントをアップグレードする必要があります。
-- トライアルアカウントから送信、架電できる番号はあらかじめ認証された [__verified numbers__](https://www.twilio.com/console/phone-numbers/verified) のみです。
+- トライアルアカウントから送信、架電できる番号はあらかじめ認証された [verified numbers](https://www.twilio.com/console/phone-numbers/verified) のみです。
 - SMSや電話の冒頭にトライアルアカウントを利用している旨を伝えるメッセージ（英語）が流れます。
 
 その他の制限については関連リソースをご覧ください。
