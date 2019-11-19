@@ -2,26 +2,26 @@
 ## はじめに
 この手順では、Twilioアカウントを作成します。既にアカウントを作成し、コンソールにアクセスできている場合は、[手順2](./01-02-PurchasePhoneNumber.md)へ進んでください。
 ## 1-1. アカウントの作成を開始
-[Twilioホームページ](https://www.twilio.com/)をブラウザーで開き、[__Sign Up__](https://www.twilio.com/try-twilio) をクリックします。
+[Twilioホームページ](https://www.twilio.com/)をブラウザーで開き、[Sign Up](https://www.twilio.com/try-twilio) をクリックします。
 
-''' Image for WebSite '''
+![Twilioホームページ](../assets/01-WebSite-SignUp.png "Twilioホームページ")
 
 First Name（名）、Last Name（姓）、Email、パスワード(14文字以上)を入力し、サービス提供条件ならびにブライバシーポリシーを確認したのち、__Start your free trial__ をクリックします。
 
-''' Image for Sign in '''
+![サインアップ](../assets/01-SignUp.png "サインアップ")
 
 ## 1-2. Emailアドレス、電話番号の確認、コンソールのセットアップ
 登録したEmailに確認メールが送られます。メール本文の __Confirm Your Email__ をクリックし、アカウントを有効化させます。
 
-''' Image for Email '''
+![確認Email](../assets/01-ConfirmationEmail.png "確認Email")
 
 リンクをクリックすると、続けて電話番号の確認が行われます。トライアルを開始するためには、SMSを受信可能な電話番号が必要になります。
 
-''' Image for Verification '''
+![電話番号確認](../assets/01-PhoneVerification.png "電話番号を確認")
 
-よく使用するプログラミング言語を選択できます。いくつか選択肢が出てきますが、ここでは選択せずに __Skip to dashboard__ ボタンを押しても構いません。
+よく使用するプログラミング言語を選択できます。いくつか選択肢が出てきますが、ここではNoを選択し続けて __Skip to dashboard__ ボタンを押しても構いません。
 
-''' Image for Preference '''
+![Preferences](../assets/01-Preferences.png "Preferences")
 
 これでサインアップは完了です。
 
@@ -29,13 +29,11 @@ First Name（名）、Last Name（姓）、Email、パスワード(14文字以�
 Twilioのさまざまなサービスの利用状況の確認や設定はコンソールから行う事ができます。
 コンソールには、[Twilioホームページ](https://www.twilio.com/)をブラウザーで開き、[LOG IN](https://www.twilio.com/login) をクリックするか、[コンソール](https://www.twilio.com/console)に直接移動します。
 
-特に名前を設定していなければ、「__My first Twilio project Dashboard__」が表示されています。プロジェクトのコンソールでは、プロジェクトに紐づいているクレジットの合計を確認できます。
+特に名前を設定していなければ、「__My first Twilio project Dashboard__」が表示されています。このコンソールでは、プロジェクトに紐づいているクレジットの合計を確認できます。
 
-''' Image for Console '''
+![Twilioコンソール](../assets/01-Console.png "Twilioコンソール")
 
 また、個別のプログラムからTwilioのサービスを利用できるACCOUNT SID、AUTH TOKENを確認できます。
-
-''' Image for Console v2
 
 ## 1-4. トライアルアカウントを利用した場合の制限
 トライアルアカウントを利用する場合は、以下のような __制限__ があります。
