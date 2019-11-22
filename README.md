@@ -14,7 +14,7 @@
 ## ハンズオン
 
 - [ハンズオン: Twilioアカウントの作成と電話番号の取得](./docs/01-Twilio-Phone-Number/01-00-Overview.md)
-- [ハンズオン: メッセージ（SMS/MMS）の利用](./docs/02-Twilio-SMS/02-00-Overview.md)
+- [ハンズオン: メッセージ（SMS）の利用](./docs/02-Twilio-SMS/02-00-Overview.md)
 - [ハンズオン: ボイス（電話）の利用](./docs/03-Twilio-Voice/03-00-Overview.md)
 
 
