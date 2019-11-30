@@ -39,4 +39,4 @@ Add Payment Information and Fundsにクレジットカード情報を入力し�
 
 ## 関連リソース
 
-- [Twilio 101ハンズオン](../../Readme.md)
+- [Twilio 101ハンズオン](../../README.md)
