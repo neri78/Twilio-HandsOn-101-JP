@@ -2,11 +2,11 @@
 ## はじめに
 この手順では、Twilioアカウントを作成します。既にアカウントを作成し、コンソールにアクセスできている場合は、[手順2](./01-02-PurchasePhoneNumber.md)へ進んでください。
 ## 1-1. アカウントの作成を開始
-[Twilioホームページ](https://www.twilio.com/)をブラウザーで開き、[Sign Up](https://www.twilio.com/try-twilio) をクリックします。
+[Twilioホームページ](https://www.twilio.com/)をブラウザーで開き、[今すぐ無料サインアップ](https://www.twilio.com/try-twilio) ボタンをクリックします。
 
 ![Twilioホームページ](../assets/01-WebSite-SignUp.png "Twilioホームページ")
 
-First Name（名）、Last Name（姓）、Email、パスワード(14文字以上)を入力し、サービス提供条件ならびにブライバシーポリシーを確認したのち、__Start your free trial__ をクリックします。
+名、姓、メール、パスワード(14文字以上)を入力します。また、サービス規約とブライバシーポリシーに同意することを示すボックスをチェックし、__無料トライアルを始めましょう__ ボタンをクリックします。
 
 ![サインアップ](../assets/01-SignUp.png "サインアップ")
 
